@@ -1,0 +1,15 @@
+{
+  "name": "one-day-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Fork of one-light-syntax",
+  "keywords": [
+    "light",
+    "syntax"
+  ],
+  "repository": "https://github.com/asiloisad/pulsar-one-day-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
