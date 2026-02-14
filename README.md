@@ -6,6 +6,8 @@ Light syntax theme with a clean, modern look. Designed to pair with [one-day-ui]
 
 ![view-2](https://github.com/asiloisad/pulsar-one-day-ui/blob/master/assets/view-2.png?raw=true)
 
+Fork of [one-light-syntax](https://github.com/atom/one-light-syntax).
+
 ## Installation
 
 To install `one-day-syntax` search for [one-day-syntax](https://web.pulsar-edit.dev/packages/one-day-syntax) in the Install pane of the Pulsar settings or run `ppm install one-day-syntax`. Alternatively, you can run `ppm install asiloisad/pulsar-one-day-syntax` to install a package directly from the GitHub repository.
