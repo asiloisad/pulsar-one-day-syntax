@@ -14,4 +14,4 @@ To install `one-day-syntax` search for [one-day-syntax](https://web.pulsar-edit.
 
 ## Contributing
 
-Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub — any feedback's welcome!
+Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub. Any feedback is welcome!
